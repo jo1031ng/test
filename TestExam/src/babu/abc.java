@@ -13,6 +13,12 @@ public class abc {
 		{
 			System.out.println(i);
 		}
+		for(;i>=10;i++)
+		{
+			System.out.println(i);
+		}
+		
+		
 	}
 
 }
